@@ -8,6 +8,7 @@ package com.atiguigu.git;
  **/
 public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("是是是");
+        System.out.println("Hello Git");
+        System.out.println("更新1");
     }
 }
